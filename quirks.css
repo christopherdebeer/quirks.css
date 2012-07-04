@@ -1,0 +1,6 @@
+
+/* Quirks.css */
+/* Browser specific quirks and fixes to be aware of, and acknowledge. */
+
+/*Firefox button element inner padding issue for sutom styled buttons*/
+button::-moz-focus-inner{padding:0;border:0;} 
